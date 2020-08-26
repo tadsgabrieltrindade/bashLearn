@@ -1,4 +1,4 @@
-# Aprendendo git
+# Algumas práticas em C
 ---
 
-Aprendendo a usar os comando do git no bash;
+Alguns programas em C e aprendendo comandos do git.
