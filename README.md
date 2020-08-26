@@ -1,2 +1,4 @@
-Este repositório está sendo usado para fins educativos.
-Será que muda o readme?
+# Aprendendo git
+---
+
+Aprendendo a usar os comando do git no bash;
