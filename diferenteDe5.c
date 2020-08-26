@@ -18,5 +18,6 @@ int main (){
         printf("\nVocê digitou o númeor 5, FALSE!!!");
         printf("\n%i", a==5);
      }
+     system("\npause");
         return 0;
 }

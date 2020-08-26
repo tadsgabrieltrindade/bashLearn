@@ -16,5 +16,6 @@ int main (){
      else {
         printf("Caractere inválido.");
      }
+     system("\npause");
         return 0;
 }
