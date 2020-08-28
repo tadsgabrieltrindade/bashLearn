@@ -11,7 +11,7 @@ int main (){
     scanf("%c", &c);
 
      if (c>= 'a') {
-        printf("Segua a letra escrita em maiúscula: > %c < \n", toupper( c ));
+        printf("Segue a letra escrita em maiúscula: > %c < \n", toupper( c ));
      }
      else {
         printf("Caractere inválido.");
