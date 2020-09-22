@@ -34,7 +34,7 @@ void rotProduto(){
     printf("\n \nDigite o primeiro valor: \n >>>"); scanf("%f", &num1);
     printf("\nDigite o segundo valor: \n >>>"); scanf("%f", &num2);
     result = num1 * num2;
-    printf("\O produto entre os valores digitados é %.1f.\n", result);
+    printf("\nO produto entre os valores digitados é %.1f.\n", result);
 }
 void rotdivisao(){
     setlocale(LC_ALL, "Portuguese");
